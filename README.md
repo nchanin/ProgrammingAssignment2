@@ -104,15 +104,16 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-1) Was a valid GitHub URL containing a git repository submitted?
-Yes
-2) Does the GitHub repository contain at least one commit beyond the original fork?
-Yes
-3) Does the GitHub repository contain an R file containing code implementing the completed assignment? 
-2 points: The R file contains code implementing the complete assignment
-4) Does the R file containing the code have any comments explaining what the code does?
-2 points: Both functions have corresponding explanatory comments in the R file
-5) Does the R code implementing the 'makeCacheMatrix' function appear to be correct, to the best of your ability to judge?
-2 points: The solution appears to be correct and is written in a well-formatted and easily readable style
-6) Does the R code implementing the 'cacheSolve' function appear to be correct, to the best of your ability to judge?
-2 points: The solution appears to be correct and is written in a well-formatted and easily readable style
+1.  Was a valid GitHub URL containing a git repository submitted?
+    Yes
+2.  Does the GitHub repository contain at least one commit beyond the original fork?
+    Yes
+3.  Does the GitHub repository contain an R file containing code implementing the completed assignment? 
+    2 points: The R file contains code implementing the complete assignment
+4.  Does the R file containing the code have any comments explaining what the code does?
+    2 points: Both functions have corresponding explanatory comments in the R file
+5.  Does the R code implementing the 'makeCacheMatrix' function appear to be correct, to the best of your ability to judge?
+    2 points: The solution appears to be correct and is written in a well-formatted and easily readable style
+6.  Does the R code implementing the 'cacheSolve' function appear to be correct, to the best of your ability to judge?
+    2 points: The solution appears to be correct and is written in a well-formatted and easily readable style
+
