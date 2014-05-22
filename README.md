@@ -103,3 +103,8 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+1) Was a valid GitHub URL containing a git repository submitted?
+Yes
+2) Does the GitHub repository contain at least one commit beyond the original fork?
+Yes
