@@ -31,10 +31,10 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
-  iscached <- x$getcache()
-  if(!is.null(iscached)) {
+  cachedval <- x$getcache()
+  if(!is.null(cachedval)) {
     message("getting cached data")
-    return(iscached)
+    return(cachedval)
   }
   ## otherwise...
   data <- x$get()
